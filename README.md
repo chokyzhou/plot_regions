@@ -5,10 +5,9 @@ Plot regions of one beatmap is favored by.
 简历一个load文件，包含id，secret用来获取token。
 注：请不要泄露secret
 
+```python
 from get_token import get_token
 from lookup_beatmap import lookup_beatmap
-
-```python
 def load():
     id = NULL
     secret = NULL
