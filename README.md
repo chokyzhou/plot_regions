@@ -2,7 +2,7 @@
 Plot regions of one beatmap is favored by.
 
 # load.py
-简历一个load文件，包含id，secret用来获取token。
+建立一个load文件，包含id，secret用来获取token。
 注：请不要泄露secret
 
 ```python
