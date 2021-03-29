@@ -8,8 +8,10 @@ Plot regions of one beatmap is favored by.
 from get_token import get_token
 from lookup_beatmap import lookup_beatmap
 
+```python
 def load():
     id = NULL
     secret = NULL
     grant_type = 'client_credentials'
     return id,secret,grant_type
+```
